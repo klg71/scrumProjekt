@@ -8,7 +8,7 @@ Definition of Ready:
 - Die Aufgabe ist ausreichend beschrieben und erklärt seinen Nutzen
 
 Definition of Done:
-- Akzeptanzkriterien des PBI sind erfüllt und dokumentiert
+- Akzeptanzkriterien der Aufgabe sind erfüllt und dokumentiert
 - Code Review hat stattgefunden und der Reviewer hat die Story abgenommen
 - Alle sinnvoll testbaren Klassen sind Unit-getestet
 - Die Doku wurde bei relevanten Themen angepasst
