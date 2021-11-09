@@ -2,11 +2,10 @@
 Scrum TestProjekt
 
 Definition of Ready:
-- Ein PBI benötigt mindestens ein validierbares Akzeptanzkriterium
-- Ein PBI ist mit weniger als 13 Story Points(SP) geschätzt
-- Spikes sind mit Personentagen (PT) abgebildet (Spikes sind zeitlich begrente, nicht abgeschätzbare Aufgaben z.B. Techevaluierungen, Beratung mit Experten)
+- Eine Aufgabe benötigt mindestens ein validierbares Akzeptanzkriterium
+- Eine Aufgabe ist mit weniger als 13 Story Points(SP) geschätzt
 - Ressourcen/Ansprechpartner oder dessen Vertreter sind für die Umsetzung bekannt
-- Das PBI ist ausreichend beschrieben und erklärt seinen Nutzen
+- Die Aufgabe ist ausreichend beschrieben und erklärt seinen Nutzen
 
 Definition of Done:
 - Akzeptanzkriterien des PBI sind erfüllt und dokumentiert
